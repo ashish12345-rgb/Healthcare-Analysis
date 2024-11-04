@@ -1,2 +1,4 @@
 # Healthcare-Analysis
 Healthcare Data Analysis project focuses on examining electronic health records from our medical facilities to improve patient care.
+Healthcare Data Analysis project focuses on examining electronic health records from our medical facilities to improve patient care. By analyzing transactional data from patient interactions with our healthcare system ranging from appointment scheduling to medication dispensing we aim to gain valuable insights into patient treatment outcomes, preferences in care delivery types, and overall healthcare service efficiency. This analysis is crucial for understanding patterns that can drive strategic decisions on how to enhance the platform’s performance and patient care experience.
+![image](https://github.com/user-attachments/assets/c5cf5023-7670-49b7-86f2-0418c182d8d7)
